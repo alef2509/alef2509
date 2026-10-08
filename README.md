@@ -45,6 +45,12 @@ architecture decision records explaining the trade-offs, and a README you can ru
 |---|---|
 | [**modern-java-features**](https://github.com/alef2509/modern-java-features) | Java 21 → 25 LTS: virtual threads, structured concurrency, scoped values, pattern matching, gatherers, FFM, with tests and JMH benchmarks |
 
+### Frontend
+
+| Project | What it shows |
+|---|---|
+| [**angular-pokedex**](https://github.com/alef2509/angular-pokedex) · [live demo](https://alef2509.github.io/angular-pokedex/) | Angular 22 zoneless app with signals and `rxResource` on the public PokéAPI: filters in the URL, type matchups, evolution chains, request caching and rate limiting, Vitest + Playwright, deployed to GitHub Pages |
+
 ## Tech stack
 
 **Backend** · Java · Spring Boot · Spring Data / JPA · REST · Microservices · DDD · SOLID · Clean Code<br>
